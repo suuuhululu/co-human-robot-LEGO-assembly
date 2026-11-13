@@ -1,7 +1,6 @@
 
-https://github.com/user-attachments/assets/26cd168d-b8b1-41d2-8a20-05c863e50b29
 # Adaptive Co-Assembly
-
+https://github.com/user-attachments/assets/26cd168d-b8b1-41d2-8a20-05c863e50b29
 설계 대화, 빈 조립판 확인, 블록 파지와 안착, 사람의 개입 감지와 재설계, 조립 재개, 기록 저장과 웹 아카이브까지 한 번의 작업 흐름을 담았습니다(2분 56초).
 
 **대화로 설계하고, 로봇이 조립하는 사람–로봇 협업 LEGO 조립 시스템**
